@@ -25,9 +25,9 @@ This repository showcases how different feature encoding strategies affect the l
 - **PWL Encoding**: Falls between Fine and Coarse, with moderate performance.
 - Convergence varies significantly with encoding strategy, impacting policy effectiveness.
 
-![Value Function Evolution](output/plot1.png)
-![Final Value Functions & Policies](output/plot2.png)
-![Explicit Strategies](output/plot3.png)
+![Value Function Evolution](outputs/plot1.png)
+![Final Value Functions & Policies](outputs/plot2.png)
+![Explicit Strategies](outputs/plot3.png)
 
 ## Limitations
 
