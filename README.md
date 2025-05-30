@@ -35,4 +35,4 @@ This repository showcases how different feature encoding strategies affect the l
 - Fixed iteration count (100) might not ensure full convergence in all cases.
 
 ## File Description
-- `Encoding_Impact.ipynb`: Jupyter Notebook with code, visualizations, and analysis.
+- `EncodingExploration.ipynb`: Jupyter Notebook with code, visualizations, and analysis.
