@@ -1,4 +1,4 @@
-# Exploring Feature Encoding Impact on Temporal Difference Learning
+# Exploring Feature Encoding Impact on Value Functions
 
 ## Overview
 
